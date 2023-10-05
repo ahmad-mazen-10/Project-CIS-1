@@ -1,3 +1,3 @@
-# Frist-project-CIS
+# Project-CIS-1
 HTML + CSS
 
